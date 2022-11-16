@@ -7,3 +7,4 @@
 
 Herzlich Willkommen in meinem Garten!
 
+[[INBOX/Buchnotes 1\|Buchnotes 1]]
