@@ -6,11 +6,11 @@
 
 **TOC**
 
-1. [[INBOX/Stefan Schweyer - Gottesdienste#1. Gottesdienst - Was ist das?\|1. Gottesdienst - Was ist das?]]
-1. [[INBOX/Stefan Schweyer - Gottesdienste#2. Welche Elemente gehören dazu?\|2. Welche Elemente gehören dazu?]]
-1. [[INBOX/Stefan Schweyer - Gottesdienste#3. Wie sieht eine sinnvolle Abfolge aus?\|3. Wie sieht eine sinnvolle Abfolge aus?]]
-1. [[INBOX/Stefan Schweyer - Gottesdienste#4. Wer macht was?\|4. Wer macht was?]]
-1. [[INBOX/Stefan Schweyer - Gottesdienste#5. Wie spontan soll es sein?\|5. Wie spontan soll es sein?]]
+[[INBOX/Stefan Schweyer - Gottesdienste#1. Gottesdienst - Was ist das?\|1. Gottesdienst - Was ist das?]]
+[[INBOX/Stefan Schweyer - Gottesdienste#2. Welche Elemente gehören dazu?\|2. Welche Elemente gehören dazu?]]
+[[INBOX/Stefan Schweyer - Gottesdienste#3. Wie sieht eine sinnvolle Abfolge aus?\|3. Wie sieht eine sinnvolle Abfolge aus?]]
+[[INBOX/Stefan Schweyer - Gottesdienste#4. Wer macht was?\|4. Wer macht was?]]
+[[INBOX/Stefan Schweyer - Gottesdienste#5. Wie spontan soll es sein?\|5. Wie spontan soll es sein?]]
 
 
 
