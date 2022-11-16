@@ -4,6 +4,16 @@
 
 ![](https://imageservice.azureedge.net/api/getimage?productId=32907366&width=260&format=webp)
 
+**TOC**
+
+1. [[INBOX/Stefan Schweyer - Gottesdienste#1. Gottesdienst - Was ist das?\|1. Gottesdienst - Was ist das?]]
+1. [[INBOX/Stefan Schweyer - Gottesdienste#2. Welche Elemente gehören dazu?\|2. Welche Elemente gehören dazu?]]
+1. [[INBOX/Stefan Schweyer - Gottesdienste#3. Wie sieht eine sinnvolle Abfolge aus?\|3. Wie sieht eine sinnvolle Abfolge aus?]]
+1. [[INBOX/Stefan Schweyer - Gottesdienste#4. Wer macht was?\|4. Wer macht was?]]
+1. [[INBOX/Stefan Schweyer - Gottesdienste#5. Wie spontan soll es sein?\|5. Wie spontan soll es sein?]]
+
+
+
 
 ## 1. Gottesdienst - Was ist das?
 
