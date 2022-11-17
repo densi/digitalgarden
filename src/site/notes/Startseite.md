@@ -4,6 +4,6 @@
 
 Herzlich Willkommen in meinem Garten!
 
-> [!Hinweis] 
+> [!Note] 
 > Inhalte auf dieser Seite sind nicht "fertig". So ist es im Garten, Dinge wachsen und verändern sich. Oder werden manchmal entfernt. 
 
