@@ -7,4 +7,6 @@
 
 Herzlich Willkommen in meinem Garten!
 
-[[Quellennotizen/Buch/Stefan Schweyer - Gottesdienste\|Stefan Schweyer - Gottesdienste]]
+> [!warning] 
+> Inhalte auf dieser Seite sind nicht "fertig". So ist es im Garten, Dinge wachsen und verändern sich. Oder werden manchmal entfernt. 
+
