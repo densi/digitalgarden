@@ -36,11 +36,41 @@ DT: [10 Practices for Good Sermon Prep - by Dr. Glenn Packiam](x-devonthink-item
 
 > Pray through the sermon on Saturday evening. → This is where you shift from phase 2— sermon _writing_— to phase 3, sermon delivery. 
 
+
+> [!NOTE]
 > **If we are to be carriers of the word of God, we must carry not just the content but the very pathos of God.**
 
 
 ## Zusammenfassung 
-Vier Phasen: 
+Fünf Phasen: 
 1. Planung 
 	- Breit lesen, hören, neugierig sein 
-	- Trotzdem 
+	- Trotzdem dem Hirn immer wieder die Möglichkeit geben, ohne direkten Input Verbindungen zu machen 
+	- Notizen machen, sammeln, zugänglich machen  → Man muss nie bei 0 anfangen 
+	- Predigtreihen immer schon 12-14 Monate im Vorraus planen 
+2. Vorbereitung 
+	- Drei Monate vor Beginn der Serie passende Bücher und Kommentare lesen 
+	- 10 Tage vor der Predigt intensiv dazu lesen, denken, skizzieren 
+3. Predigt schreiben 
+	- 5 Tage vor der Predigt Gliederung anfertigen (Dienstag) 
+	- Nach und nach mit Leben füllen 
+	- Grundstruktur: 
+		1. Verbidnung und Spannung → Durch persönliche Geschichte Verbindung mit Hörenden aufbauen, klar machen das jetzt etwas hörenswertes kommt 
+		2. Text und Teilnahme → Exegese und Anwendung des Textes, die Bibel für Heute sprechen lassen, Menschen helfen, in den Text einzutauchen und den Text den Menschen beeinflussen lassen 
+		3. Evangelium und Einladung → Wo ist hier die gute Nachricht für den Hörer? "point to the _originating work of the Father, the finished work of the Son, and the ongoing work of the Holy Spirit._"
+		4. Anderen die Predigt vorstellen und gutes Feedback geben lassen
+	- Notizen bis Donnerstag fertig stellen → "Fertig is besser als perfekt"
+4. Predigt halten 
+	- Samstag Abend Predigtnotizen durchgehen und durchbeten → Was möchte Gott den Menschen sagen? 
+5. Reflektieren 
+	- Predigt Zirkel bilden 
+		- Predigt vom letzten Sonntag durchsprechen → Wie wäre die Predigt noch besser geworden? 
+		- Kommende Predigt durchsprechen 
+			- Ehrlich sein 
+			- Freunbdlich sein 
+			- Offen sein (Niemand muss Ideen und Ratschläge annehmen)
+
+
+
+
+
