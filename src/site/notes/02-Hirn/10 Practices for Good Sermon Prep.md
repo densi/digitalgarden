@@ -38,6 +38,8 @@ DT: [10 Practices for Good Sermon Prep - by Dr. Glenn Packiam](x-devonthink-item
 
 > **If we are to be carriers of the word of God, we must carry not just the content but the very pathos of God.**
 
+
+## Zusammenfassung 
 Vier Phasen: 
 1. Planung 
 	- Breit lesen, hören, neugierig sein 
