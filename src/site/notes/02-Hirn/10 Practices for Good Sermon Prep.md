@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/02-hirn/10-practices-for-good-sermon-prep/"}
 ---
 
-Orginal: https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep
+# 10 Practices for Good Sermon Prep
+
+Orginal: [https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep](https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep)
 DT: [10 Practices for Good Sermon Prep - by Dr. Glenn Packiam](x-devonthink-item://473D6E72-137B-41EE-A18B-482108BACB25)
 
 # Highlights
