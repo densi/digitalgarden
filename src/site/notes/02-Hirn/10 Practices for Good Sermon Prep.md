@@ -7,15 +7,15 @@
 Orginal: [https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep](https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep)
 DT: [10 Practices for Good Sermon Prep - by Dr. Glenn Packiam](x-devonthink-item://473D6E72-137B-41EE-A18B-482108BACB25)
 
-> [!NOTE]
+> [!QUote]
 > **If we are to be carriers of the word of God, we must carry not just the content but the very pathos of God.**
 
 
 ## Zusammenfassung 
 Fünf Phasen: 
 1. Planung 
-	- Breit lesen, hören, neugierig sein 
-	- Trotzdem dem Hirn immer wieder die Möglichkeit geben, ohne direkten Input Verbindungen zu machen 
+	- breit lesen, hören, neugierig sein 
+	- Trotzdem dem Hirn immer wieder ermöglichen, ohne direkten Input Verbindungen herzustellen
 	- Notizen machen, sammeln, zugänglich machen  → Man muss nie bei 0 anfangen 
 	- Predigtreihen immer schon 12-14 Monate im Vorraus planen 
 2. Vorbereitung 
