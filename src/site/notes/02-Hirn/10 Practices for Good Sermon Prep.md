@@ -7,8 +7,8 @@
 Orginal: [https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep](https://glennpackiam.substack.com/p/10-practices-for-good-sermon-prep)
 DT: [10 Practices for Good Sermon Prep - by Dr. Glenn Packiam](x-devonthink-item://473D6E72-137B-41EE-A18B-482108BACB25)
 
-> [!quote] Zitat
-> **If we are to be carriers of the word of God, we must carry not just the content but the very pathos of God.**
+> [!quote] 🔥
+> If we are to be carriers of the word of God, we must carry not just the content but the very pathos of God.
 
 
 ## Zusammenfassung 
@@ -17,13 +17,13 @@ Fünf Phasen:
 	- breit lesen, hören, neugierig sein 
 	- Trotzdem dem Hirn immer wieder ermöglichen, ohne direkten Input Verbindungen herzustellen
 	- Notizen machen, sammeln, zugänglich machen  → Man muss nie bei 0 anfangen 
-	- Predigtreihen immer schon 12-14 Monate im Vorraus planen 
+	- Predigtreihen immer schon 12-14 Monate im Voraus planen 
 2. Vorbereitung 
 	- Drei Monate vor Beginn der Serie passende Bücher und Kommentare lesen 
 	- 10 Tage vor der Predigt intensiv dazu lesen, denken, skizzieren 
 3. Predigt schreiben 
 	- 5 Tage vor der Predigt Gliederung anfertigen (Dienstag) 
-	- Nach und nach mit Leben füllen 
+	- nachund nach mit Leben füllen 
 	- Grundstruktur: 
 		1. Verbidnung und Spannung → Durch persönliche Geschichte Verbindung mit Hörenden aufbauen, klar machen das jetzt etwas hörenswertes kommt 
 		2. Text und Teilnahme → Exegese und Anwendung des Textes, die Bibel für Heute sprechen lassen, Menschen helfen, in den Text einzutauchen und den Text den Menschen beeinflussen lassen 
